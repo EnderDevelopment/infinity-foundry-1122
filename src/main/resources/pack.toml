@@ -1,0 +1,4 @@
+name = "EnderDevelopment 1.12.2 Pack"
+version = "1.0.0"
+minecraft = "1.12.2"
+forge = "14.23.5.2860"

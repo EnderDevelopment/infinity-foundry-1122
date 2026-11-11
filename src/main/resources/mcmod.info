@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "enderdevelopmentpack",
+    "name": "EnderDevelopment 1.12.2 Pack",
+    "description": "Pack marker and metadata for the EnderDevelopment Minecraft 1.12.2 Forge modpack.",
+    "version": "${version}",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["EnderDevelopment"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "EnderDevelopment 1.12.2 Pack",
+  "version": "1.0.0",
+  "author": "EnderDevelopment",
+  "projectID": 0,
+  "files": [],
+  "overrides": "overrides",
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2860",
+        "primary": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+Actually Additions
+Applied Energistics 2
+AutoRegLib
+Avaritia
+Baubles
+Better Builder's Wands
+BiblioCraft
+Bookshelf
+Bookworm Library
+Brandon's Core
+BuildCraft Lib
+Building Gadgets
+CLibrary
+CTM
+CXLibrary
+Carry On
+Chameleon
+Chickens
+Chisel
+CoFH Core
+CoFH World
+CodeChicken Lib
+Compact Drawers
+Construct's Armory
+Cucumber Library
+Cyclic
+Draconic Evolution
+Ender IO
+EnderCore
+EnderStorage
+Environmental Tech
+Extra Utilities 2
+Extreme Reactors
+FTB Ultimine
+Fast Leaf Decay
+Flux Networks
+Forge Multipart CBE
+Harvest
+Immersive Engineering
+Industrial Foregoing
+IndustrialCraft 2
+Inventory Pets
+Inventory Tweaks
+Iron Chest
+Iron Tank
+JourneyMap
+Just Enough Items
+Just Enough Reactors
+LunatriusCore
+Mantle
+McJtyLib
+Mekanism
+Mekanism JEI Fix
+Mekanism: Generators
+Mekanism: Tools
+MekanismOres
+More Chickens
+More Furnaces
+Mystical Agradditions
+Mystical Agriculture
+OpenBlocks
+OpenComputers
+OpenModsLib
+PTRLib-1.0.

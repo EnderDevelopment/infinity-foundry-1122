@@ -1,0 +1,30 @@
+buildscript {
+    repositories {
+        maven { url = 'https://maven.minecraftforge.net/' }
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT'
+    }
+}
+
+apply plugin: 'net.minecraftforge.gradle.forge'
+
+version = mod_version
+group = maven_group
+archivesBaseName = archives_base_name
+
+sourceCompatibility = targetCompatibility = '1.8'
+
+minecraft {
+    version = "${minecraft_version}-${loader_version}"
+    runDir = 'run'
+    mappings = 'stable_39-1.12'
+}
+
+processResources {
+    inputs.property 'version', project.version
+    filesMatching('mcmod.info') {
+        expand 'version': project.version
+    }
+}
